@@ -28,11 +28,11 @@ O notebook aborda os seguintes tópicos:
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/repositorio-pln.git
+   git clone https://github.com/FelipeSeleme/PLN_processamento_de_linguagem_natural.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd repositorio-pln
+   cd PLN_processamento_de_linguagem_natural
    ```
 3. Crie um ambiente virtual (opcional, mas recomendado):
    ```sh
